@@ -7,7 +7,7 @@ sections:
     title: Bienvenue sur mon portfolio
     content: |
       Je suis Marion, Chargée de communication et marketing digital. 
-    image: images/hero.png
+    image: /images/avatar.png
     image_alt: App preview
     actions:
       - type: action
