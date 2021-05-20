@@ -5,9 +5,8 @@ sections:
     template: section_hero
     section_id: hero
     title: Bienvenue sur mon portfolio
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Je suis Marion, Chargée de communication et marketing digital. 
     image: images/hero.png
     image_alt: App preview
     actions:
