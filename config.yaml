@@ -12,7 +12,7 @@ params:
     nav_links:
       - type: action
         template: action
-        label: Home
+        label: Accueil
         url: /
         style: link
       - type: action
