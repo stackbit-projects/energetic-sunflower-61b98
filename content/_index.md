@@ -12,7 +12,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: En savoir pluse
+        label: En savoir plus
         url: /features
         style: primary
   - type: section_features
